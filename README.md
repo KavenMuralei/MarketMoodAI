@@ -1,15 +1,12 @@
+# 🌟 Market Mood AI 🌟
 
-# 🌟Market Mood AI🌟
+**Market Mood AI** is a cutting-edge web application that serves as both a stock trading simulator and an AI-driven stock sentiment tracker. This platform offers a playground for novice traders while also analyzing the favorability of stocks based on their sentiment in the news cycle. 📈📰
 
-Market Mood AI is a web application that is both a stock trading simulator and an AI stock sentiment tracker. This web application provides a playgroud for those who are new to stock trading while also analyzing the favorability of stocks based on their sentiment in the news cycle.📈📰 
-
-🚀 This project is still in development. 
-
+🚀 This project is still in development. Stay tuned for more updates!
 
 ## Author
 
-- 👤[@KavenMuralei](https://github.com/KavenMuralei)
-
+- 👤 [@KavenMuralei](https://github.com/KavenMuralei)
 
 ## Tech Stack
 
@@ -21,8 +18,9 @@ Market Mood AI is a web application that is both a stock trading simulator and a
 
 **Cloud:** ☁️ AWS
 
-
 ## Full Stack Diagram
+
+```plaintext
 ┌────────────────────────┐
 │     React Frontend     │
 │                        │
@@ -55,8 +53,7 @@ Market Mood AI is a web application that is both a stock trading simulator and a
         ▼
 ┌────────────────────────┐
 │       Database         │
-│ (PostgreSQL)   │
-│                        │
+│    (PostgreSQL)        │
 │ - Data Storage         │
 │ - CRUD Operations      │
 └───────▲────────────────┘
@@ -69,4 +66,3 @@ Market Mood AI is a web application that is both a stock trading simulator and a
 │ - Automated Tasks      │
 │ - Daily Updates        │
 └────────────────────────┘
-
