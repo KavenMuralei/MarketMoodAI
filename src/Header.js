@@ -5,10 +5,15 @@ function Header() {
     <div>
       <div className="header__wrapper">
         {/*Logo*/}
-        <div className="header_logo">
-          <img src={Logo} width={50}></img>
+        <div className="header__logo">
+          <img src={Logo} width={40}></img>
         </div>
         {/*search*/}
+        <div className="header__search">
+          <div className="header__searchContainer">
+            
+          </div>
+        </div>
         {/*menuitems*/}
       </div>
     </div>
