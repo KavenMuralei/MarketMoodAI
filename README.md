@@ -62,7 +62,7 @@
         ▼
 ┌────────────────────────┐
 │     Scheduler          │
-│  (AWS Lambda/ EC2)     │
+│  (AWS Lambda (OR EC2?))│
 │ - Automated Tasks      │
 │ - Daily Updates        │
 └────────────────────────┘
